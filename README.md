@@ -27,7 +27,7 @@
 Python | Pandas | NumPy | Geospatial Analysis | Data Visualization  
 
 🔗 **Repository:**  
-LLD-system-design
+LLD-system-design[https://github.com/AryapratapNayak/LLD-system-design?tab=readme-ov-file#lld-system-design]
 
 ---
 
